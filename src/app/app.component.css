@@ -1,0 +1,10 @@
+.imageUrlClass {
+    width: 30%;
+    height: 30%;
+}
+
+.divClass {
+    width: auto;
+    height: 250px;
+    border: solid black 3px;
+}
